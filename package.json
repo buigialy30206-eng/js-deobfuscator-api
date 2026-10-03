@@ -1,0 +1,22 @@
+{
+  "name": "js-deobfuscator-api",
+  "version": "1.0.0",
+  "description": "Deobfuscate JavaScript via AST — one API call. String-array decryption, constant folding, dead-code removal.",
+  "type": "module",
+  "main": "index.js",
+  "exports": "./index.js",
+  "keywords": [
+    "deobfuscator",
+    "javascript",
+    "deobfuscation",
+    "ast",
+    "reverse-engineering",
+    "security",
+    "obfuscation",
+    "malware-analysis"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
